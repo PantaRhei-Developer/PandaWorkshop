@@ -5,6 +5,7 @@ This document defines the project's rules, objectives, and progress management m
 - We practice Specification-Driven Development (SDD). First, we and you write accurate specifications, and then implement them.
 - To maximize efficiency, if you need to execute multiple independent processes, invoke those tools concurrently, not sequentially.
 - To understand how to use a library, always use the Contex7 MCP to retrieve the latest information.
+- When you receive instructions, first look at docs/structure.md to check which files should be operated on before executing the instructions. Never scan the contents of all files.
 
 ## Programming Rules
 
@@ -109,4 +110,19 @@ State management and context provider specifications. Include:
 # Coding Guidelines
 TBD
 # Github Guidelines
-TBD
+
+## Branch Structure
+
+Production Branch: main
+Development Branch: dev
+Feature Branch: feature/{feature_name}
+Bug Branch: bug/{bug_name}
+
+## Branch Flow
+
+- The `dev` branch is created from the `main` branch
+- `feature/{feature_name}` branches are created from the `dev` branch
+- `bug/{bug_name}` branches are created from the `dev` branch
+- All feature and bug branches must be merged back to `dev` branch
+- The `dev` branch is periodically merged to `main` branch for releases
+

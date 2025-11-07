@@ -42,7 +42,7 @@ Claude.example.md
 - Context7
 - serena
 - Cipher
-
+https://zenn.dev/aki1990/articles/a7db63dbc99848
 全部OSSです。
 
 ## Contect7
