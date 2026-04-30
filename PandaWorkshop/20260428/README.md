@@ -370,6 +370,7 @@ claude mcp list
 - [Cipher (GitHub)](https://github.com/campfirein/cipher)
 - [GitHub MCP Server (公式)](https://github.com/github/github-mcp-server)
 - [vv-mcp (VoiceVox)](https://github.com/arrow2nd/vv-mcp)
+- [登壇資料](https://docs.google.com/presentation/d/17dmDBioRL0mqoIbkoiQ3XsuVbYnKSffCz34AljwHWtg/edit?usp=sharing)
 
 ---
 
