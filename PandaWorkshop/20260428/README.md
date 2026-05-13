@@ -375,3 +375,6 @@ claude mcp list
 ---
 
 ### ご清聴ありがとうございました 🎉
+
+### 会社紹介
+hogehoge, hugahuga
