@@ -13,7 +13,17 @@
     - 記事執筆完了目安
 2. githubで技術ブログを書く
     - main branchを使用
+    - 導入部分は「こんにちは。 hogehoge 部の hugahuga です」
+    - 社外秘情報は入れない
+      - 受託開発における社外秘情報
+          - 社名は出さない
+          - 企業を特定できる情報はNG
+          - 業界、会社規模は出して大丈夫（会社規模は書くと失礼に当たる可能性がある）
+          - テックに関してはドメインはNG
+      - oarthにおける社外秘情報
+          - 具体的なリソース名は載せない
+ 
 3. わゆがレビューし、microCMSにあげる。
 4. microCMSにわゆが記入する
 
-詳細は[テックブログ執筆のインセンティブ制度について](https://docs.google.com/document/d/17W5r9LUbEq7FIfudAl4qSB2vYD4BgfH-wtD7nyvLgSE/edit?tab=t.0#heading=h.99f26v9g6g5t)をご覧ください
+インセンティブ制度に関する詳細は[テックブログ執筆のインセンティブ制度について](https://docs.google.com/document/d/17W5r9LUbEq7FIfudAl4qSB2vYD4BgfH-wtD7nyvLgSE/edit?tab=t.0#heading=h.99f26v9g6g5t)をご覧ください
